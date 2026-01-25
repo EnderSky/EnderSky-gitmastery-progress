@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769068598.026631,
+    "completed_at": 1769068600.409522,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769103370.462389,
+    "completed_at": 1769103374.893839,
+    "comments": [
+      "You have not reverted all the commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769103411.022917,
+    "completed_at": 1769103413.194285,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  }
+]
